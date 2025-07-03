@@ -22,3 +22,5 @@ Bireysel adayların ödül kazanıp kazanmadığı incelendi.
 
 🧠 Genel Yorum
 Bu görselleştirmeler sayesinde, winner değişkeniyle en ilişkili değişkenlerin kategori, yıl, ve sanatçı olduğu görülmektedir. Özellikle belirli dönemler ve kategorilerde kazanma olasılığı artmakta, bu da Grammy Ödülleri’nin zaman içindeki eğilimlerini ve yapısal örüntülerini ortaya koymaktadır.
+
+Kullanılan Veri Seti: https://www.kaggle.com/datasets/kfoster150/grammy-award-nominees-and-winners-1958-2024
